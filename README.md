@@ -5,7 +5,7 @@
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/N.jpeg" width="200">  <br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/P.png" width="400">  <br>
 
-# Steps :
+# Steps  :
 1. Install Arduino IDE. [link here](https://www.arduino.cc/en/main/software)<br>
 2. Now we have to Install ESP8266 Board.<br>
 * Copy<br> `https://arduino.esp8266.com/stable/package_esp8266com_index.json`<br>
